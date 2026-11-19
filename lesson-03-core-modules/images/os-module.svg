@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600" viewBox="0 0 1000 600">
+    <rect width="1000" height="600" fill="#0b1220"/>
+    <text x="500" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#f8fafc">OS Module</text>
+    <text x="500" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" fill="#cbd5e1">نقدر نطلب من Node.js معلومات عن الجهاز ونظام التشغيل</text>
+<rect x="90" y="160" width="250" height="120" rx="18" fill="#2563eb" stroke="#e2e8f0" stroke-width="2"/>
+        <text x="215.0" y="198" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#ffffff">Platform</text>
+        <text x="215.0" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#f1f5f9">Windows / Linux / macOS</text>
+<rect x="375" y="160" width="250" height="120" rx="18" fill="#059669" stroke="#e2e8f0" stroke-width="2"/>
+        <text x="500.0" y="198" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#ffffff">CPU</text>
+        <text x="500.0" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#f1f5f9">عدد الأنوية / بيانات المعالج</text>
+<rect x="660" y="160" width="250" height="120" rx="18" fill="#7c3aed" stroke="#e2e8f0" stroke-width="2"/>
+        <text x="785.0" y="198" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#ffffff">Memory</text>
+        <text x="785.0" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#f1f5f9">RAM الكلية والمتاحة</text>
+<rect x="240" y="360" width="250" height="120" rx="18" fill="#ea580c" stroke="#e2e8f0" stroke-width="2"/>
+        <text x="365.0" y="398" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#ffffff">User</text>
+        <text x="365.0" y="435" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#f1f5f9">اسم المستخدم / Home Directory</text>
+<rect x="560" y="360" width="250" height="120" rx="18" fill="#0891b2" stroke="#e2e8f0" stroke-width="2"/>
+        <text x="685.0" y="398" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#ffffff">Uptime</text>
+        <text x="685.0" y="435" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#f1f5f9">مدة تشغيل النظام</text>
+</svg>

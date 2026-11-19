@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600" viewBox="0 0 1000 600">
+    <rect width="1000" height="600" fill="#0b1220"/>
+    <text x="500" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#f8fafc">Node.js Core Modules</text>
+    <text x="500" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" fill="#cbd5e1">أدوات جاهزة بتساعدنا ننجز وظائف شائعة من غير ما نكتبها من الصفر</text>
+<rect x="90" y="150" width="250" height="130" rx="18" fill="#2563eb" stroke="#e2e8f0" stroke-width="2"/>
+        <text x="215.0" y="188" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#ffffff">path</text>
+        <text x="215.0" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#f1f5f9">مسارات الملفات</text>
+<rect x="375" y="150" width="250" height="130" rx="18" fill="#059669" stroke="#e2e8f0" stroke-width="2"/>
+        <text x="500.0" y="188" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#ffffff">os</text>
+        <text x="500.0" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#f1f5f9">معلومات الجهاز</text>
+<rect x="660" y="150" width="250" height="130" rx="18" fill="#7c3aed" stroke="#e2e8f0" stroke-width="2"/>
+        <text x="785.0" y="188" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#ffffff">fs</text>
+        <text x="785.0" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#f1f5f9">قراءة وكتابة الملفات</text>
+<rect x="90" y="350" width="250" height="130" rx="18" fill="#ea580c" stroke="#e2e8f0" stroke-width="2"/>
+        <text x="215.0" y="388" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#ffffff">http</text>
+        <text x="215.0" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#f1f5f9">إنشاء Web Server</text>
+<rect x="375" y="350" width="250" height="130" rx="18" fill="#0891b2" stroke="#e2e8f0" stroke-width="2"/>
+        <text x="500.0" y="388" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#ffffff">events</text>
+        <text x="500.0" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#f1f5f9">التعامل مع الأحداث</text>
+<rect x="660" y="350" width="250" height="130" rx="18" fill="#be123c" stroke="#e2e8f0" stroke-width="2"/>
+        <text x="785.0" y="388" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#ffffff">crypto</text>
+        <text x="785.0" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#f1f5f9">Hashing / Encryption</text>
+</svg>

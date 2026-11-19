@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600" viewBox="0 0 1000 600">
+    <rect width="1000" height="600" fill="#0b1220"/>
+    <text x="500" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#f8fafc">Relative vs Absolute Path</text>
+    <text x="500" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" fill="#cbd5e1">المسار النسبي مرتبط بمكان التشغيل، والمسار الكامل بيحدد المكان بوضوح</text>
+<rect x="100" y="160" width="350" height="150" rx="18" fill="#2563eb" stroke="#e2e8f0" stroke-width="2"/>
+        <text x="275.0" y="198" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#ffffff">Relative Path</text>
+        <text x="275.0" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#f1f5f9">files/users.json</text>
+<rect x="550" y="160" width="350" height="150" rx="18" fill="#059669" stroke="#e2e8f0" stroke-width="2"/>
+        <text x="725.0" y="198" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#ffffff">Absolute Path</text>
+        <text x="725.0" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#f1f5f9">C:/project/files/users.json</text>
+<rect x="300" y="390" width="400" height="100" rx="18" fill="#7c3aed" stroke="#e2e8f0" stroke-width="2"/>
+        <text x="500.0" y="428" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#ffffff">path.resolve()</text>
+        <text x="500.0" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#f1f5f9">بيكوّن مسارًا كاملًا</text>
+</svg>
