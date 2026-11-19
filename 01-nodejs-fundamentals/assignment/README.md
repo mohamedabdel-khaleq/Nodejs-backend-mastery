@@ -43,3 +43,34 @@ Explain why Node.js can be used to build the Backend of this application.
 - Write your explanations in your own words.
 
 **Goal:** Understand how the different components of a Backend application work together.
+
+
+
+const weather = "sunny";
+
+switch (weather) {
+  case "sunny":
+    console.log("Let's go shopping");
+    break;
+  case "cloudy":
+    console.log("Let's go shopping");
+    break;
+  case "rainy":
+    console.log("Let's stay home");
+    break;
+}
+
+
+const weather = "sunny";
+
+switch (weather) {
+  case "sunny":
+  case "cloudy":
+    console.log("Let's go shopping");
+    break;
+  case "rainy":
+    console.log("Let's stay home");
+    break;
+}
+
+print("The answer is " + str(2 * 5))
