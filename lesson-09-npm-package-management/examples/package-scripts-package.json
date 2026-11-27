@@ -1,0 +1,9 @@
+{
+  "name": "npm-scripts-example",
+  "version": "1.0.0",
+  "description": "Example npm scripts for the lesson",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  }
+}
